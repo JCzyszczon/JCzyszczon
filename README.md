@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jakub 🤵</h1>
 <h3 align="center">I am a third year student of Computer Science in Engineering at AGH University of Science and Technology. 🎓</h3>
 
-- 🔭 I’m currently working on **CPM-Calculator**
+- 🔭 I’m currently working on **Transportation-problem**
 
 - 🌱 I’m currently learning **Next.js**
 
